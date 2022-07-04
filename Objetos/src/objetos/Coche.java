@@ -17,6 +17,7 @@ public class Coche {
 		this.velocidadMax = velocidadMax;
 		this.potencia = potencia;
 		this.velocidad = 0;
+		
 	}
 
 	public void acelerar() {
